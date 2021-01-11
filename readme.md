@@ -11,4 +11,4 @@
 
 
 ---
-<p style="text-align:right">版权所有 © 2021 信</p>
+<p text-align:right>版权所有 © 2021 信</p>
