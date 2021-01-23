@@ -11,7 +11,7 @@
 > 2、[双汇发展个股分析（20201108)](./stock_analysis_shuanghuifazhan.md)
 
 
-## [微淼好公司分析知识纪要](./good_company.md)
+## [微淼好公司分析知识纪要](./good_company.md)(正在更新中......)
 
 ---
 <p align="right" color="green">版权所有 © 2021 信</p>
