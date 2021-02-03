@@ -368,7 +368,7 @@ C、从企业出发
 - 战略方面
 - 战术方面
 
-## <span id="ruhexuexijiazhitouzi">12、投资理念之如何学习价值投资</span>
+## <span id="ruhexuexijiazhitouzi">十二、投资理念之如何学习价值投资</span>
 价值投资属于道的范畴，而企业分析属于书的内容，只要理解了道，术就没有太大问题
 
 ### 1、跟书学
