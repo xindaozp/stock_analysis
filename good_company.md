@@ -78,6 +78,8 @@
 
   ### <span align="right" >[Menu](#menu)</span>
 
+  
+
   ## <span id="changjiangdianli">二、20201122好公司分析——长江电力（股票代码：600900）</span>
 
   ### 1、好价格区间
@@ -115,6 +117,8 @@
 
   ### <span align="right" >[Menu](#menu)</span>
 
+  
+
   ##  <span id="haikang">三 、20201129好公司分析——海康卫视（股票代码：002415）</span>
 
   ### 1、好价格区间
@@ -146,6 +150,8 @@
   
 
   ### <span align="right" >[Menu](#menu)</span>
+
+  
 
   ## <span id="meidi">四、20201206好公司分析——美的集团（股票代码：000333）</span>
 
@@ -183,6 +189,8 @@
 
   ### <span align="right" >[Menu](#menu)</span>
 
+  
+
   ## <span id="shanghaijichang">五、20201213好公司分析——上海机场（股票代码：600009）</span>
 
   ### 1、好价格区间
@@ -216,6 +224,8 @@
   
 
   ### <span align="right" >[Menu](#menu)</span>
+
+  
 
   ## <span id="fuyao">六、20201220好公司分析——福耀玻璃（股票代码：600660）</span>
 
@@ -253,6 +263,8 @@
 
   ### <span align="right" >[Menu](#menu)</span>
 
+  
+
   ## <span id="yili">七、20200127好公司分析——伊利股份（股票代码：600887）</span>
 
   ### 1、好价格区间
@@ -289,6 +301,8 @@
 
   ### <span align="right" >[Menu](#menu)</span>
 
+  
+
   ## <span id="laoban">八、20210103好公司分析——老板电器（股票代码：002508）</span>
 
   ### 1、好价格区间
@@ -322,6 +336,8 @@
 
   ### <span align="right" >[Menu](#menu)</span>
 
+  
+
   ## <span id="geli">九、20210110好公司分析——格力电器（股票代码：000651）</span>
 
   ### 1、好价格区间
@@ -352,6 +368,8 @@
   
 
   ### <span align="right" >[Menu](#menu)</span>
+
+  
 
   ## <span id="yunnanbaiyao">十、20210117好公司分析——云南白药（股票代码：000538）</span>
 
@@ -389,6 +407,8 @@
 
   ### <span align="right" >[Menu](#menu)</span>
 
+  
+
   ## <span id="wuliangye">十一、20210124好公司分析——五粮液（股票代码：000858）</span>
 
   ### 1、好价格区间
@@ -418,7 +438,9 @@
 
   
 
-  <span align="right" >[Menu](#menu)</span>
+  ### <span align="right" >[Menu](#menu)</span>
+
+  
 
   ## **<span id="ruhexuexijiazhitouzi">十二、20210131投资理念之如何学习价值投资</span>**
 
@@ -476,6 +498,8 @@
 
   ### <span align="right" >[Menu](#menu)</span>
 
+  
+
   ## **<span id="zhengtaidianqi">十三，20210207好公司分析之正泰电器（股票代码：601877）</span>**
 
   ### 1、好价格区间
@@ -510,6 +534,8 @@
   
 
   ### <span align="right" >[Menu](#menu)</span>
+
+  
 
   ## **<span id="haierzhijia">十四，20210214好公司分析之海尔智家（股票代码：600690）</span>**
 
@@ -553,6 +579,8 @@
   
 
   ### <span align="right" >[Menu](#menu)</span>
+
+  
 
   ## 十五、<span id="bafeitedetouzizhunze">20210221巴菲特的投资准则</span>
 
@@ -661,6 +689,8 @@
   
 
   ### <span align="right" >[Menu](#menu)</span>
+
+  
 
   ## 十六、<span id="qiyemoshifenxi">20210228企业商业模式分析</span>
 
@@ -843,8 +873,6 @@
 
 
 
-<span align="right" >[Menu](#menu)</span>
-
-
+### <span align="right" >[Menu](#menu)</span>
 
 ### 
