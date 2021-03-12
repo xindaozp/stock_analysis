@@ -23,7 +23,8 @@
 - [如何学习价值](#ruhexuexijiazhitouzi)
 - [正泰电器](#zhengtaidianqi)
 - [海尔智家](#haierzhijia)
-- []
+- [巴菲特的投资准则](#bafeitedetouzizhunze)
+-[企业商业模式分析](#qiyemoshifenxi)
 ---
 
 ## 一、<span id="hailuo">20201115好公司分析——海螺水泥（股票代码：600585）</span>
