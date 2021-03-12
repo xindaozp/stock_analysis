@@ -24,6 +24,8 @@
 - [15、巴菲特的投资准则](#bafeitedetouzizhunze)
 - [16、企业商业模式分析](#qiyemoshifenxi)
 
+
+
 ---
 
 
