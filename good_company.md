@@ -1,5 +1,3 @@
-
-
 本分析总结内容全部来自每周日微淼老师的好公司分析，本人只是进行了总结，如果有不合适甚至错漏之处，还请各位给予批评指正，发信息至xindaozp@gmail.com即可！
 
 重点说明：
@@ -8,6 +6,7 @@
 2、因所有公司估值就是不准确的预估，因此整个好价格的计算也不够准确，仅为参考价。
 
 ## Menu
+
 - [1、海螺水泥](#hailuo)
 - [2、长江电力](#changjiangdianli)
 - [3、海康威视](#haikang)
@@ -24,10 +23,11 @@
 - [14、海尔智家](#haierzhijia)
 - [15、巴菲特的投资准则](#bafeitedetouzizhunze)
 - [16、企业商业模式分析](#qiyemoshifenxi)
+
 ---
 
 
-## 一、<span id="hailuo">20201115好公司分析——海螺水泥（股票代码：600585）</span>
+## 一、<span id="hailuo">20201115好公司分析——海螺水泥（股票代码：600585）<span align="right" id="#menu">Menu</span></span>
 
 ### 1、好价格区间
 
@@ -76,7 +76,7 @@ C3、在实践中学习投资
 
 
 
-## <span id="changjiangdianli">二、20201122好公司分析——长江电力（股票代码：600900）</span>
+## <span id="changjiangdianli">二、20201122好公司分析——长江电力（股票代码：600900）<span align="right" id="#menu">Menu</span></span>
 
 ### 1、好价格区间
 
@@ -109,7 +109,7 @@ E、好心态
 
 
 
-##  <span id="haikang">三 、20201129好公司分析——海康卫视（股票代码：002415）</span>
+##  <span id="haikang">三 、20201129好公司分析——海康卫视（股票代码：002415）<span align="right" id="#menu">Menu</span></span>
 
 ### 1、好价格区间
 
@@ -137,7 +137,7 @@ C、股票基金组合，风险较小
 
 
 
-## <span id="meidi">四、20201206好公司分析——美的集团（股票代码：000333）</span>
+## <span id="meidi">四、20201206好公司分析——美的集团（股票代码：000333）<span align="right" id="#menu">Menu</span></span>
 
 ### 1、好价格区间
 
@@ -169,7 +169,7 @@ D、风险控制
 
 
 
-## <span id="shanghaijichang">五、20201213好公司分析——上海机场（股票代码：600009）</span>
+## <span id="shanghaijichang">五、20201213好公司分析——上海机场（股票代码：600009）<span align="right" id="#menu">Menu</span></span>
 
 ### 1、好价格区间
 
@@ -199,7 +199,7 @@ B、记住第一条，并把盈利预期放在合理位置。
 
 
 
-## <span id="fuyao">六、20201220好公司分析——福耀玻璃（股票代码：600660）</span>
+## <span id="fuyao">六、20201220好公司分析——福耀玻璃（股票代码：600660）<span align="right" id="#menu">Menu</span></span>
 
 ### 1、好价格区间
 
@@ -231,7 +231,7 @@ D、10年的长期投资计划
 
 
 
-## <span id="yili">七、20200127好公司分析——伊利股份（股票代码：600887）</span>
+## <span id="yili">七、20200127好公司分析——伊利股份（股票代码：600887）<span align="right" id="#menu">Menu</span></span>
 
 ### 1、好价格区间
 
@@ -263,7 +263,7 @@ D、跟别人做投资
 
 
 
-## <span id="laoban">八、20210103好公司分析——老板电器（股票代码：002508）</span>
+## <span id="laoban">八、20210103好公司分析——老板电器（股票代码：002508）<span align="right" id="#menu">Menu</span></span>
 
 ### 1、好价格区间
 
@@ -292,7 +292,7 @@ D、有更好的投资标的
 
 
 
-## <span id="geli">九、20210110好公司分析——格力电器（股票代码：000651）</span>
+## <span id="geli">九、20210110好公司分析——格力电器（股票代码：000651）<span align="right" id="#menu">Menu</span></span>
 
 ### 1、好价格区间
 
@@ -319,7 +319,7 @@ C、估值低-------------------**关键**
 
 
 
-## <span id="yunnanbaiyao">十、20210117好公司分析——云南白药（股票代码：000538）</span>
+## <span id="yunnanbaiyao">十、20210117好公司分析——云南白药（股票代码：000538）<span align="right" id="#menu">Menu</span></span>
 
 ### 1、好价格区间
 
@@ -349,7 +349,7 @@ D、技术派
 - 市场因素
 - 心理反应
 
-## <span id="wuliangye">十一、20210124好公司分析——五粮液（股票代码：000858）</span>
+## <span id="wuliangye">十一、20210124好公司分析——五粮液（股票代码：000858）</span><span align="right" id="#menu">Menu</span>
 
 ### 1、好价格区间
 
@@ -374,7 +374,7 @@ C、从企业出发
 - 战略方面
 - 战术方面
 
-## **<span id="ruhexuexijiazhitouzi">十二、20210131投资理念之如何学习价值投资</span>**
+## **<span id="ruhexuexijiazhitouzi">十二、20210131投资理念之如何学习价值投资</span>**<span align="right" id="#menu">Menu</span>
 
 价值投资属于道的规模0，而企业分析属于书的内容，只要理解了道，术就没有太大问题
 
@@ -426,7 +426,7 @@ C、从企业出发
 
 
 
-## **<span id="zhengtaidianqi">十三，20210207好公司分析之正泰电器（股票代码：601877）</span>**
+## **<span id="zhengtaidianqi">十三，20210207好公司分析之正泰电器（股票代码：601877）</span>**<span align="right" id="#menu">Menu</span>
 
 ### 1、好价格区间
 
@@ -455,7 +455,7 @@ C、从企业出发
 `投资心理`
 `追涨杀跌`
 
-## **<span id="haierzhijia">十四，20210214好公司分析之海尔智家（股票代码：600690）</span>**
+## **<span id="haierzhijia">十四，20210214好公司分析之海尔智家（股票代码：600690）</span>**<span align="right" id="#menu">Menu</span>
 
 ### 1、好价格区间
 
@@ -493,7 +493,7 @@ C、从企业出发
 - 违背概率原则
 
 
-## 十五、<span id="bafeitedetouzizhunze">20210221巴菲特的投资准则</span>
+## 十五、<span id="bafeitedetouzizhunze">20210221巴菲特的投资准则</span><span align="right" id="#menu">Menu</span>
 
 生意无大小
 
@@ -597,7 +597,7 @@ C、从企业出发
 
 
 
-## 十六、<span id="qiyemoshifenxi">20210228企业商业模式分析</span>
+## 十六、<span id="qiyemoshifenxi">20210228企业商业模式分析</span><span align="right" id="#menu">Menu</span>
 
 **安全边际**
 
@@ -775,4 +775,3 @@ C、从企业出发
 ##### 5、持续
 
 持续指赚钱能力的持续性。好的商业模式赚钱的持续性会很强。怎么算是持续性强呢？如果一个商业模式在10年后每年赚的钱比现在还多，就说明这个商业模式赚钱的持续性强。
-
