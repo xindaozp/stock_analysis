@@ -8,23 +8,22 @@
 2、因所有公司估值就是不准确的预估，因此整个好价格的计算也不够准确，仅为参考价。
 
 ## Menu
-
-- [1、长江电力](#changjiangdianli)
-- [2、海康威视](#haikang)
-- [3、美的集团](#meidi)
-- [4、上海机场](#shanghaijichang)
-- [5、福耀玻璃](#fuyao)
-- [6、伊利股份](#yili)
-- [7、老板电器](#laoban)
-- [8、格力电器](#geli)
-- [9、云南白药](#yunnanbaiyao)
-- [10、五粮液](#wuliangye)
-- [11、如何学习价值](#ruhexuexijiazhitouzi)
-- [12、正泰电器](#zhengtaidianqi)
-- [13、海尔智家](#haierzhijia)
-- [14、巴菲特的投资准则](#bafeitedetouzizhunze)
-- [15、企业商业模式分析](#qiyemoshifenxi)
-
+- [1、海螺水泥](#hailuo)
+- [2、长江电力](#changjiangdianli)
+- [3、海康威视](#haikang)
+- [4、美的集团](#meidi)
+- [5、上海机场](#shanghaijichang)
+- [6、福耀玻璃](#fuyao)
+- [7、伊利股份](#yili)
+- [8、老板电器](#laoban)
+- [9、格力电器](#geli)
+- [10、云南白药](#yunnanbaiyao)
+- [11、五粮液](#wuliangye)
+- [12、如何学习价值](#ruhexuexijiazhitouzi)
+- [13、正泰电器](#zhengtaidianqi)
+- [14、海尔智家](#haierzhijia)
+- [15、巴菲特的投资准则](#bafeitedetouzizhunze)
+- [16、企业商业模式分析](#qiyemoshifenxi)
 ---
 
 
@@ -104,6 +103,7 @@ D、好期限
 长期投资5-10年，短期不用的闲钱投资。
 
 E、好心态
+
 
 价格越跌，成本越低，克服贪婪和恐惧。
 
@@ -775,3 +775,4 @@ C、从企业出发
 ##### 5、持续
 
 持续指赚钱能力的持续性。好的商业模式赚钱的持续性会很强。怎么算是持续性强呢？如果一个商业模式在10年后每年赚的钱比现在还多，就说明这个商业模式赚钱的持续性强。
+
