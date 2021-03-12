@@ -9,24 +9,24 @@
 
 ## Menu
 
-- [海螺水泥](#hailuo)
-- [长江电力](#changjiangdianli)
-- [海康威视](#haikang)
-- [美的集团](#meidi)
-- [上海机场](#shanghaijichang)
-- [福耀玻璃](#fuyao)
-- [伊利股份](#yili)
-- [老板电器](#laoban)
-- [格力电器](#geli)
-- [云南白药](#yunnanbaiyao)
-- [五粮液](#wuliangye)
-- [如何学习价值](#ruhexuexijiazhitouzi)
-- [正泰电器](#zhengtaidianqi)
-- [海尔智家](#haierzhijia)
-- [巴菲特的投资准则](#bafeitedetouzizhunze)
-- [企业商业模式分析](#qiyemoshifenxi)
+- [1、长江电力](#changjiangdianli)
+- [2、海康威视](#haikang)
+- [3、美的集团](#meidi)
+- [4、上海机场](#shanghaijichang)
+- [5、福耀玻璃](#fuyao)
+- [6、伊利股份](#yili)
+- [7、老板电器](#laoban)
+- [8、格力电器](#geli)
+- [9、云南白药](#yunnanbaiyao)
+- [10、五粮液](#wuliangye)
+- [11、如何学习价值](#ruhexuexijiazhitouzi)
+- [12、正泰电器](#zhengtaidianqi)
+- [13、海尔智家](#haierzhijia)
+- [14、巴菲特的投资准则](#bafeitedetouzizhunze)
+- [15、企业商业模式分析](#qiyemoshifenxi)
 
 ---
+
 
 ## 一、<span id="hailuo">20201115好公司分析——海螺水泥（股票代码：600585）</span>
 
