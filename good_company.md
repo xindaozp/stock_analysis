@@ -24,12 +24,10 @@
 - [15、巴菲特的投资准则](#bafeitedetouzizhunze)
 - [16、企业商业模式分析](#qiyemoshifenxi)
 
-
-
 ---
 
 
-## 一、<span id="hailuo">20201115好公司分析——海螺水泥（股票代码：600585）<span align="right" id="#menu">Menu</span></span>
+## 一、<span id="hailuo">20201115好公司分析——海螺水泥（股票代码：600585）</span><span align="right" id="#menu">Menu</span>
 
 ### 1、好价格区间
 
@@ -78,7 +76,7 @@ C3、在实践中学习投资
 
 
 
-## <span id="changjiangdianli">二、20201122好公司分析——长江电力（股票代码：600900）<span align="right" id="#menu">Menu</span></span>
+## <span id="changjiangdianli">二、20201122好公司分析——长江电力（股票代码：600900）</span><span align="right" id="#menu">Menu</span>
 
 ### 1、好价格区间
 
@@ -111,7 +109,7 @@ E、好心态
 
 
 
-##  <span id="haikang">三 、20201129好公司分析——海康卫视（股票代码：002415）<span align="right" id="#menu">Menu</span></span>
+##  <span id="haikang">三 、20201129好公司分析——海康卫视（股票代码：002415）</span><span align="right" id="#menu">Menu</span>
 
 ### 1、好价格区间
 
@@ -139,7 +137,7 @@ C、股票基金组合，风险较小
 
 
 
-## <span id="meidi">四、20201206好公司分析——美的集团（股票代码：000333）<span align="right" id="#menu">Menu</span></span>
+## <span id="meidi">四、20201206好公司分析——美的集团（股票代码：000333）</span><span align="right" id="#menu">Menu</span>
 
 ### 1、好价格区间
 
@@ -171,7 +169,7 @@ D、风险控制
 
 
 
-## <span id="shanghaijichang">五、20201213好公司分析——上海机场（股票代码：600009）<span align="right" id="#menu">Menu</span></span>
+## <span id="shanghaijichang">五、20201213好公司分析——上海机场（股票代码：600009）</span><span align="right" id="#menu">Menu</span>
 
 ### 1、好价格区间
 
@@ -201,7 +199,7 @@ B、记住第一条，并把盈利预期放在合理位置。
 
 
 
-## <span id="fuyao">六、20201220好公司分析——福耀玻璃（股票代码：600660）<span align="right" id="#menu">Menu</span></span>
+## <span id="fuyao">六、20201220好公司分析——福耀玻璃（股票代码：600660）</span><span align="right" id="#menu">Menu</span>
 
 ### 1、好价格区间
 
@@ -233,7 +231,7 @@ D、10年的长期投资计划
 
 
 
-## <span id="yili">七、20200127好公司分析——伊利股份（股票代码：600887）<span align="right" id="#menu">Menu</span></span>
+## <span id="yili">七、20200127好公司分析——伊利股份（股票代码：600887）</span><span align="right" id="#menu">Menu</span>
 
 ### 1、好价格区间
 
@@ -265,7 +263,7 @@ D、跟别人做投资
 
 
 
-## <span id="laoban">八、20210103好公司分析——老板电器（股票代码：002508）<span align="right" id="#menu">Menu</span></span>
+## <span id="laoban">八、20210103好公司分析——老板电器（股票代码：002508）</span><span align="right" id="#menu">Menu</span>
 
 ### 1、好价格区间
 
@@ -294,7 +292,7 @@ D、有更好的投资标的
 
 
 
-## <span id="geli">九、20210110好公司分析——格力电器（股票代码：000651）<span align="right" id="#menu">Menu</span></span>
+## <span id="geli">九、20210110好公司分析——格力电器（股票代码：000651）</span><span align="right" id="#menu">Menu</span>
 
 ### 1、好价格区间
 
@@ -321,7 +319,7 @@ C、估值低-------------------**关键**
 
 
 
-## <span id="yunnanbaiyao">十、20210117好公司分析——云南白药（股票代码：000538）<span align="right" id="#menu">Menu</span></span>
+## <span id="yunnanbaiyao">十、20210117好公司分析——云南白药（股票代码：000538）</span><span align="right" id="#menu">Menu</span>
 
 ### 1、好价格区间
 
